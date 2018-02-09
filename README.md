@@ -3,5 +3,5 @@
 ### Day 10 Challenge in Kotlin
 
 ![Optional Text](../master/day10.gif) __
-![Optional Text](../master/Screenshot1.png)
-![Optional Text](../master/Screenshot2.png)
+![Optional Text](../master/Screenshot_1.png)
+![Optional Text](../master/Screenshot_2.png)
